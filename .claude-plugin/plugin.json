@@ -1,0 +1,20 @@
+{
+  "name": "signingflow",
+  "displayName": "Signingflow",
+  "version": "1.0.0",
+  "description": "See who still has to sign, download a finished file, send an existing template, and send a reminder in one Signingflow workspace.",
+  "author": {
+    "name": "Signingflow",
+    "email": "support@signingflow.com",
+    "url": "https://signingflow.com"
+  },
+  "homepage": "https://signingflow.com/integration/mcp-server",
+  "repository": "https://github.com/Signingflow/signingflow-claude",
+  "license": "MIT",
+  "keywords": ["signature", "envelopes", "documents", "reminders"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://signingflow.com/help",
+  "supportUrl": "https://signingflow.com/help",
+  "privacyPolicyUrl": "https://signingflow.com/privacy",
+  "termsOfServiceUrl": "https://signingflow.com/terms"
+}
